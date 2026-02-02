@@ -12,7 +12,7 @@ const siteConfig = {
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
-      'Christ university , data analytics , and what you teach or build.\n' +
+      'Christ (deemed to be university) , data analytics , and what you teach or build.\n' +
       '\n' +
       'I'm pursuing a bachlore of science degree in economics with data science ' +
       '\n' +
