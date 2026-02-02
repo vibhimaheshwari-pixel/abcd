@@ -12,13 +12,13 @@ const siteConfig = {
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Christ university , data analytics , and what you teach or build.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'I'm pursuing a bachlore of science degree in economics with data science ' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    location: 'bangalore,karnataka ',
   },
 
   seo: {
@@ -51,16 +51,16 @@ const siteConfig = {
 
   education: [
     {
-      institution: 'Your Institution',
-      degree: 'Your Degree',
-      year: 'YYYY–YYYY',
+      institution: 'christ university ',
+      degree: 'Bsc economics with data science',
+      year: '2025-2028',
       image: getAsset('images/education/placeholder.png'),
       description: ['Brief description of your focus or thesis'],
     },
     {
-      institution: 'Another Institution',
-      degree: 'Another Degree or Certificate',
-      year: 'YYYY–YYYY',
+      institution: 'delhi scholars intrantional school',
+      degree: 'senior secondary education',
+      year: '2023-2025',
       image: getAsset('images/education/placeholder.png'),
       description: ['Key topics or skills learned'],
     },
@@ -69,7 +69,7 @@ const siteConfig = {
 // ✅ Unified MOOC + Certifications Section
   certifications: [
     {
-      title: 'Your Certificate or Specialization',
+      title: 'Kathak dancer',
       specialization: true,
       file: getAsset('images/education/Certifications/download.svg'),
       certificates: [
